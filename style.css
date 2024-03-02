@@ -1,0 +1,50 @@
+.bodyStyle {
+  background-image: url("todolist.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  opacity: 0.9;
+}
+
+.containerStyle {
+  max-width: 600px;
+  background-color: #edeea2;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 8px;
+  margin-left: 46px;
+  margin-top: 5%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.headingStyle {
+  text-align: center;
+}
+
+.inputStyle {
+  width: 100%;
+  font-size: 17px;
+  height: 55px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #101010;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.liStyle {
+  padding: 10px;
+  margin-bottom: 5px;
+  background: #f9f9f9;
+  border-radius: 4px;
+  font-size: 17px;
+}
+
+.delete-btn {
+  float: right;
+  background: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
